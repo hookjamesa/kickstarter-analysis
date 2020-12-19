@@ -18,6 +18,8 @@ Launch dates have some effect on outcome. Based on available information, May an
 
 ### Analysis of Outcomes Based on Goals
 
+![OutcomesBasedOnLaunchDate](/resources/Outcomes_vs_Goals.PNG)
+
 Lower cost projects appear to have a higher success rate, with projects under 1,000 valuation in local currency having the best results at 75%. Projects under 5,000 in local currency also have a high success rate at 72%, with mixed results for other projects in excess of 5,000.
 
 ### Challenges and Difficulties Encountered
