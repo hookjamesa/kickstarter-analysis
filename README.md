@@ -12,6 +12,8 @@ This analysis compares outcomes of fundraising efforts for theatrical efforts (p
 
 ### Analysis of Outcomes Based on Launch Date
 
+![OutcomesBasedOnLaunchDate](/resources/Theater_Outcomes_vs_Launch.png)
+
 Launch dates have some effect on outcome. Based on available information, May and June have the largest number of successful theatrical efforts. These months also have the highest success rate. However, underlying reasons for success cannot be determined from available data.
 
 ### Analysis of Outcomes Based on Goals
