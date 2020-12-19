@@ -33,6 +33,7 @@ The data does not account for local cultural expectations and valuation of money
 May and June are the most likely to have positive outcomes for theater fundraising projects. December is unlikely to have a positive outcome for theater fundraising projects.
 
 - What can you conclude about the Outcomes based on Goals?
+
 Low cost projects under 5000 of localized currency are the most likely to succeed.
 
 - What are some limitations of this dataset?
